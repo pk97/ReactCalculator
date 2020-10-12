@@ -1,0 +1,29 @@
+.primary {
+    margin: 45px;
+    width: 500px;
+    border: solid;
+    padding: 20px;
+    align-self: center;
+    display: inline-block;
+    background-color: rgb(199, 190, 190);
+}
+
+.inputTags {
+    width: 400px;
+margin: 20px;
+}
+.buttonTags{
+    width:60px;
+    margin:10px;
+    background-color: rgb(51, 214, 59)
+}
+
+
+.clearTags{
+    width:60px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 13px;
+    margin:10px;
+    background-color: rgb(37, 192, 212)
+}
