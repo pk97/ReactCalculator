@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## A simple calculator made using React that can perform the following 4 operations:
+
+Addition
+Subtraction
+Multiplication
+Division
+## Validation
+
+The input fields cannot be empty.
+The input fields should allow only numbers.
+If any of these conditions are not met, it shows an error.
+
+#### Screenshots are located in Public folder
+
 ## Available Scripts
 
 In the project directory, you can run:
