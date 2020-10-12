@@ -14,7 +14,7 @@ The input fields should allow only numbers.
 If any of these conditions are not met, it shows an error.
 
 #### Screenshots are located in Public folder
-
+[Link to Screenshots](https://github.com/pk97/ReactCalculator/blob/master/public/Screenshots.pdf)
 ## Available Scripts
 
 In the project directory, you can run:
