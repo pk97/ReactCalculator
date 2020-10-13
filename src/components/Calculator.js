@@ -89,11 +89,11 @@ class Calculator extends Component {
             <div >
             <button className="buttonTags" onClick={this.executeAddition }> + </button>
             <button className="buttonTags" onClick={this.executeSubtraction }> - </button>
-            <button className="buttonTags" onClick={this.executeMultiplication }> *</button>            
+            <button className="buttonTags" onClick={this.executeMultiplication }> x </button>            
             <button className="buttonTags" onClick={this.executeDivision }> / </button>
             <h3></h3>
             </div>
-            <input type="text"  placeholder="Ouput" value={this.state.result}/>
+            <input type="text"  className="inputTags" placeholder="Ouput" value={this.state.result}/>
             </form>
             <button className="clearTags" onClick={this.executeClear }> Clear </button>
             </div>
